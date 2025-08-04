@@ -27,9 +27,3 @@ Below is a Preview of **Single Page Mini-Portfolio - 2**, Showcasing the Layout 
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
 <img src="./images/Portfolio1.png" alt="Single Page Mini-Portfolio - 2 Preview" width="100%" />
-
-### Author
-
-Md Afjal
-
-GitHub : [ItsAfjal-Developer](https://github.com/ItsAfjal-Developer)
