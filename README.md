@@ -23,7 +23,7 @@
 
 ## Screenshots
 
-Below is a Preview of **Single Page Mini-Portfolio - 2**, Showcasing the Layout and Styling implemented Using pure HTML and CSS. 
+Below is a Preview of **Single Page Mini-Portfolio - 2**, Showcasing the Layout and Styling implemented Using pure HTML , CSS & Javascript. 
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
 <img src="./images/Portfolio1.png" alt="Single Page Mini-Portfolio - 2 Preview" width="100%" />
