@@ -1,4 +1,4 @@
-# **Single Page Mini-Portfolio - 02**
+# **Single Page Mini Portfolio - 02**
 This is a Clean and Responsive Personal Portfolio Website designed to Showcase my Skills, Projects and Contact Information. <br/>
 The Site is built using fundamental Web Technologies, Ensuring a Fast and Lightweight Experience for Visitors & 
 this Website is a Single-Page Application that provides a Professional Overview of my Work and a Clear way for Potential Employers or Collaborators to Get in touch.
